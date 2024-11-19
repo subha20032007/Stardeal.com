@@ -26,7 +26,8 @@ Building user authentication from scratch.
 Responsive design for better UX across devices.
 
 📸 Screenshots
-https://drive.google.com/file/d/106QmecnHSFgWwswHaHY7_Dlr5aSWdRu0/view?usp=drive_link
+### Star Deal Page  
+![Star Deal Screenshot](stardeal.png)
 
 📧 Feedback
 Feel free to open issues or suggest improvements!
